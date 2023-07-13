@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93297685344",
+    "project_id": "cm-bib",
+    "storage_bucket": "cm-bib.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93297685344:android:48af0f219701b787fce405",
+        "android_client_info": {
+          "package_name": "com.example.vid_viewr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93297685344-5f80r4cbf8qdo7l1mt8ifkt5j5ppa0c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoSUaCIbyMKuiEvEawG_tz_ZkVnuICt2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93297685344-5f80r4cbf8qdo7l1mt8ifkt5j5ppa0c3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
